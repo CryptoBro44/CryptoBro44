@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy CryptoBro 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://www.canva.com/design/DAF8EPbVw2M/CIhSTpkYx1Sr_Nl63xnLQQ/edit?utm_content=DAF8EPbVw2M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
